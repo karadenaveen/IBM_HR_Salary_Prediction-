@@ -1,10 +1,10 @@
-#💼 IBM HR Salary Prediction
+💼 IBM HR Salary Prediction
 A Machine Learning project to predict employee salaries using IBM HR Analytics data. This project demonstrates data preprocessing, feature engineering, and regression modeling to estimate salaries based on various employee attributes.
 
-#📊 Project Overview
+📊 Project Overview
 The goal of this project is to predict the salary of employees using various features from IBM HR Analytics dataset. This can help organizations estimate fair salaries, detect disparities, and make informed HR decisions.
 
-#🧠 Machine Learning Workflow
+🧠 Machine Learning Workflow
 1. 🔍 Data Exploration
 Load the IBM HR Analytics Employee Attrition & Performance dataset
 
